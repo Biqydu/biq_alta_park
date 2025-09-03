@@ -13,7 +13,7 @@ A beautifully crafted map designed for FiveM servers. Optimized for performance,
 
 ## Installation
 
-1. Place the yMap file into your server's `resources` folder.  
+1. Place the resource folder into your server's `resources` folder.  
 2. Add `ensure biq_alta_park` to your `server.cfg`.  
 3. Start your server and enjoy the map!
 
@@ -25,4 +25,4 @@ A beautifully crafted map designed for FiveM servers. Optimized for performance,
 
 ---
 
-Thank you for using **[Biq Alta Park]**! Elevate your server experience with a map designed for smooth performance and immersive RP.
+Thank you for using **Biq Alta Park**! Elevate your server experience with a map designed for smooth performance and immersive RP.
